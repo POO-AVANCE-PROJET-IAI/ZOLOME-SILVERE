@@ -1,0 +1,6 @@
+Django==5.0.2
+mysqlclient==2.2.1
+reportlab==4.0.9
+weasyprint==60.1
+django-axes==6.1.1 
+Faker==25.2.0
